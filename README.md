@@ -133,15 +133,18 @@ https://doi.org/10.1016/j.engappai.2024.108903
 
 ## Teaser
 
-Parts of code of [YOLOR-Based Multi-Task Learning](https://arxiv.org/abs/2309.16921) are released in the repository.
+Parts of code of [A lightweight weed detection model with global contextual joint features](https://doi.org/10.1016/j.engappai.2024.108903) are released in the repository.
+Parts of code of [Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616) are released in the repository.
+
 
 
 ## Acknowledgements
 
 <details><summary> <b>Expand</b> </summary>
-* [https://github.com/guoao784/DR-GELAN)
-* [https://github.com/guoao784/Sixweeds)
-* [https://github.com/guoao784/LW-YOLOv8)
+    
+* [https://github.com/guoao784/DR-GELAN](https://github.com/guoao784/DR-GELAN)
+* [https://github.com/guoao784/Sixweeds](https://github.com/guoao784/Sixweeds)
+* [https://github.com/guoao784/LW-YOLOv8](https://github.com/guoao784/LW-YOLOv8)
 * [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 * [https://github.com/WongKinYiu/yolor](https://github.com/WongKinYiu/yolor)
 * [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
