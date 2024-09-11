@@ -4,7 +4,7 @@ Implementation of paper - [Weed Detection Model Based on Improved GELAN and Cons
 
 <div align="center">
     <a href="./">
-        <img src="./figure/performance1.png" width="79%"/>
+        <img src="./figure/fig1.png" width="79%"/>
     </a>
 </div>
 
