@@ -65,7 +65,7 @@ Data preparation
 bash scripts/get_coco.sh
 ```
 
-*Download [Sixweeds dataset](https://1drv.ms/f/c/2c26dd98ea3fe7e6/EpWXO7qi4jVOifWg7Fe6NqEBrjLYy4ybnRwojXC6nU7-sA?e=iLg4KL) images and labels.
+*Download [Sixweeds dataset](https://github.com/guoao784/Sixweeds) images and labels.
 
 Single GPU training
 
