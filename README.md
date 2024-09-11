@@ -133,8 +133,7 @@ https://doi.org/10.1016/j.engappai.2024.108903
 
 ## Teaser
 
-Parts of code of [A lightweight weed detection model with global contextual joint features](https://doi.org/10.1016/j.engappai.2024.108903) are released in the repository.
-Parts of code of [Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616) are released in the repository.
+Parts of code of [A lightweight weed detection model with global contextual joint features](https://doi.org/10.1016/j.engappai.2024.108903) and [Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616) are released in the repository.
 
 
 
