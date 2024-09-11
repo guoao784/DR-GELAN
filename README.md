@@ -1,4 +1,4 @@
-# DR-ELAN
+# DR-GELAN
 
 Implementation of paper - [Weed Detection Model Based on Improved GELAN and Construction of Multi-Scene Weed Dataset]()
 
