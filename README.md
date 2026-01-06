@@ -92,18 +92,29 @@ Under construction.
 ```
 1:@article{
   title={Weed Detection Model Based on Improved GELAN and Construction of Multi-Scene Weed Dataset},
-  author={Ao Guo, Sensen Song, Zhenhong Jia, Jianyi Wang, Jiajia Wang and Gang Zhou},
-  journal={2025 IEEE International Conference on Acoustics, Speech, and Signal Processing},
-  year={2024}
+  author={Ao Guo, Huawei zhang, Yang Lu, Jianjun Li, Zhiyong She, Wenqing Hou, Yuantao Hua, Jianxing Yu, and Kailiang Chen.},
+  journal={2026 International Conference on Artificial Intelligence and Control(CAIC 2026)},
+  year={2026}
 }
 ```
 ```
-Paper is currently under review. ;)
+Paper is currently under review.
 ```
 ```
-/2:@article{2024
+/3:@article{2025
+  title={RLCFE-Net: A reparameterization large convolutional kernel feature extraction network for weed detection in multiple scenarios},
+  author={Ao Guo., Zhenhong Jia., Baoquan Ge., Wei Chen, Sensen Song., Congbing He, Gang Zhou, Jiajia Wang and Xiaoyi Lv},
+  journal={Expert Systems with Applications},
+  year={2025}
+}
+```
+```
+https://doi.org/10.1016/j.eswa.2025.126941
+```
+```
+/3:@article{2024
   title={A lightweight weed detection model with global contextual joint features},
-  author={Ao Guo, Zhenhong Jia, Jianyi Wang, Jiajia Wang , Gang Zhou, Baoquan Ge and Wei Chen},
+  author={Ao Guo, Zhenhong Jia, Jiajia Wang , Gang Zhou, Baoquan Ge and Wei Chen},
   journal={Engineering Applications of Artificial Intelligence},
   year={2024}
 }
