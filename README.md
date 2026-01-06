@@ -101,7 +101,7 @@ Under construction.
 Paper is currently under review.
 ```
 ```
-/3:@article{2025
+/2:@article{2025
   title={RLCFE-Net: A reparameterization large convolutional kernel feature extraction network for weed detection in multiple scenarios},
   author={Ao Guo., Zhenhong Jia., Baoquan Ge., Wei Chen, Sensen Song., Congbing He, Gang Zhou, Jiajia Wang and Xiaoyi Lv},
   journal={Expert Systems with Applications},
